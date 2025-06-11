@@ -19,6 +19,6 @@ spec:
         image: harshithagowdam/microdegree
         ports:
         - containerPort: 8080
-        spec:
+   
 
 
